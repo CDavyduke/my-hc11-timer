@@ -1,0 +1,1 @@
+Use interrupts and the timer ports to create a real-time clock on the HC11 and send the information out the serial port.
